@@ -12,7 +12,7 @@
     "heroku"
   ],
   "engines": {
-    "node": "14.8.0"
+    "node": "14.X"
   },
   "author": "kelwin",
   "license": "ISC",
